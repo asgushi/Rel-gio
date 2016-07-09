@@ -1,5 +1,6 @@
-import tkinter
-import datetime
+#!/usr/bin/env python3
+
+import tkinter, datetime
 
 def sair():
     window.destroy()
